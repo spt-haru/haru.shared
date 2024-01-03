@@ -1,1 +1,3 @@
-# haru.shared
+# Haru.Shared
+
+Code shared across projects.

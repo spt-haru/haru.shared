@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <LangVersion>6.0</LangVersion>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <PackageId>Haru.Shared</PackageId>
+    <Version>0.1.0</Version>
+    <Authors>Merijn Hendriks</Authors>
+    <Company>Project Haru</Company>
+    <PackageDescription>Code shared across projects.</PackageDescription>
+    <RepositoryUrl>https://github.com/spt-haru/haru.shared</RepositoryUrl>
+  </PropertyGroup>
+
+</Project>
